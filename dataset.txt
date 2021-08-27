@@ -1,0 +1,16 @@
+Author: Nicolas Stout
+Date: January 25, 2021
+Class: ISTA 130
+Section Leader: Cass Randall-Greene
+
+
+https://www.kaggle.com/jsphyg/weather-dataset-rattle-package?select=weatherAUS.csv
+
+The reason I picked this dataset is because it is similar to the example of ice formation trends that the professor showed us in class.
+Another reason I chose to use this dataset is because it is large enough to where I can pick specific locations and show the trends
+comparing various locations within Australia. I would create three visualization that show the trends of annual rainfall n Australia.
+I would first do this by creating a scatterplot to represent the data of Australia as a whole. Then I would compare the data showing
+the gaps between the rainiest days and the driest days. For me to represent those gaps I would create a line graph showing the trends.
+I could also compare the gaps between the hottest and coldest days within the data. Along with this dataset I could compare Aremax wind
+speed and show the trends of where it gets stronger or where it is weaker. For me to show the tends I could create an area graph, a pie chart, or even a histogram.
+
